@@ -1,1 +1,1 @@
-This is a ReadMe file
+IST-4320 Fall 2024 Class
