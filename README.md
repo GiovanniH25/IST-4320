@@ -1,1 +1,14 @@
 IST-4320 Fall 2024 Class
+
+1. Include what was the purpose of your app, what you attempted, what worked and what didn't work, what you would still like to do in the future. Also what did you learn?
+
+The purpose of this app is to make a Tic Tac Toe app that is able to score the win/lose tally, with an opponent that is albeit basic since it utilizes the randomizer, it still works, there are also some stylistic additions done to make it look nice such as font changes, background and foreground colors changed to suit a dark mode-like aesthetic. I tried to unify the two conditions that determine whether they win or not with little success, so I kept it as two separate definitions that check on both the opponent's side and the player's side. I would try to improve my python skills further since there are a lot of potential uses that I could maybe do such as getting into automation.
+
+Update: The purpose of this app is still to make a Tic Tac Toe app that is able to score the win/lose tally, with an opponent that is able to somewhat compete, it does best in the 3x3 boards, but it is still much more competitive than my last build since it no longer relies as much on a randomizer unless there are no available winning moves, the app still looks nice with the dark mode aesthetic that uses different hues of gray, I originally was going to add a setting that would allow the ability to change the color of the board via the settings but ultimately was cut due to time constraints, as said before, I still intend to further improve my skills on python since I want to learn how to make more advanced programs and also heard that python is a very important language to learn when it comes to machine learning or automation.
+
+
+2. Any other feedback that you think would be helpful for me to understand your project or improve the project in the future?
+
+There are definitely some improvements that the project can go through such as an actual ai that isn't just a random number generator, a separate button to add a light mode/dark mode and even some difficulty settings that determine whether the opponent will actually try or whether it'll go first, and an option for a bigger tic tac toe board that uses more than 9 panels for longer gameplay, and a possible minigame selection for other simple games.
+
+Update: While several improvements have been made since the last build such as the opponent ai actually checking for winning moves to block and also making winning moves rather than randomly mark a panel and a setting that allows you to change the board loadout to 3x3, 4x4, 5x5 panels, I still need to add a light/dark mode option, and difficulty options to allow for more customization, making it part of a minigame menu is also another possible option that I would improve on since there's a lot that can be done with the tkinter library.
